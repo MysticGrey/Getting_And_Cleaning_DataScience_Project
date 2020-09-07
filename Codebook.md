@@ -101,4 +101,4 @@ Labels of the aCTIVITYs:
 * `WALKING_DOWNSTAIRS`:The subject was going down a staircase.
 * `SITTING`: The subject was sitting.
 * `STANDING`: The subject was standing.
-* `LAYING: The subject was lying down.
+* `LAYING`: The subject was lying down.
